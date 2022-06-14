@@ -1,1 +1,1 @@
-# Projeto_DIO_JS
+# Projetos Desenvolvidos junto com a Professora Stephany Nusch.
